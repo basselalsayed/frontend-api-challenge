@@ -1,0 +1,50 @@
+body {
+
+}
+li {
+  margin-bottom: 10px;
+}
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.banner {
+  display: none;
+  width: 30%;
+  text-align: right;
+  float: left;
+}
+.Log_In {
+  display: none;
+  width: 30%;
+  text-align: right;
+  float: left;
+}
+.active {
+  display: block;
+}
+.peeps-body {
+  /* position: relative; */
+  float: left ;
+  width: 40%;
+  margin: 20px;
+  margin-right: 5px;
+  background-color: beige;
+}
+.peep {
+  background-color: aqua;
+  width: 80%;
+  margin: 20px auto;
+  padding: 1px;
+  border-radius: 25px;
+  border: 5px;
+  border-style: solid;
+  border-color: coral;
+}
+article {
+  display: block;
+}
+.banner-item {
+
+}
