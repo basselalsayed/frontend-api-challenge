@@ -32,6 +32,14 @@ li {
   margin-right: 5px;
   background-color: beige;
 }
+.peeps {
+  /* position: relative; */
+  float: left ;
+  width: 40%;
+  margin: 20px;
+  margin-right: 5px;
+  background-color: beige;
+}
 .peep {
   background-color: aqua;
   width: 80%;
